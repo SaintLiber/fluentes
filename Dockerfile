@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.1
+FROM gcr.io/fluentd-elasticsearch/fluentd:v2.5.2
